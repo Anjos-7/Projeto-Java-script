@@ -1,0 +1,30 @@
+body{
+font-size: xx-large;
+text-align: center;
+background-image: url;
+background-color:rgb(0, 149, 255)
+
+
+
+}
+
+h1{
+
+border-radius: 22%;
+background-color: azure;
+width: 500px;
+text-align: center;
+}
+input{
+font-size: xx-large;
+border-radius: 27%;
+}
+div{
+background-color: rgb(0, 0, 0);
+font-size: xx-large;
+border-radius: 50%;
+width: 200px;
+text-align: center;
+color: white;
+
+}
